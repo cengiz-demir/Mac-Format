@@ -1,6 +1,11 @@
 # Xcode:
 https://itunes.apple.com/us/app/xcode/id497799835?mt=12
-Command Line Tools (CLT) for Xcode: xcode-select --install
+
+# Xcode Command Line Tools:
+developer.apple.com/downloads
+or
+Command Line Tools (CLT) for Xcode: 
+xcode-select --install
 
 # Opera:
 http://www.opera.com/tr/computer/mac
@@ -18,7 +23,6 @@ https://hyper.is
 
 ### Black Screen (Recommended ) :
 https://github.com/vshatskyi/black-screen/releases
-
 
 # Sublime Text 3 (Recommended Editor):
 https://www.sublimetext.com/3
@@ -66,11 +70,6 @@ http://brackets.io
 https://atom.io
 Not: Close Automatically  update!
 
-# Xcode Command Line Tools:
-developer.apple.com/downloads
-or
-xcode-select --install
-
 # Brew & Airport (Brew is Recommended):
 Brew.sh
 or
@@ -114,8 +113,6 @@ brew install heroku
 https://www.spectacleapp.com
 Make always start when opening computer
 
-# Mission Control : 
-Corner bottoms select to desktop
 
 # putty :
 brew install putty
@@ -131,4 +128,7 @@ Install the AWS CLI with Homebrew
 # GarageBand :
 # Steam:
 CS GO (Strong Recommended)
+
+# Mission Control : 
+Select the corners
 

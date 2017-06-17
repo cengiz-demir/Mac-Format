@@ -132,3 +132,7 @@ CS GO (Strong Recommended)
 # Mission Control : 
 Select the corners
 
+# Parallels Desktop ( Not recommended ! )
+http://www.parallels.com/eu/products/desktop/
+
+if you works with windows productions :/

@@ -130,7 +130,11 @@ Install the AWS CLI with Homebrew
 CS GO (Strong Recommended)
 
 # Mission Control : 
-Select the corners
+Select the corners 
+When comming Right Bottom Corner can you make  Show Destop
+
+# Customize Toolbar : 
+![Alt text](img/toolbar.png?raw=true "Toolbar")
 
 # Parallels Desktop ( Not recommended ! )
 http://www.parallels.com/eu/products/desktop/

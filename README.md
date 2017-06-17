@@ -88,9 +88,9 @@ npm install -g node-inspector
 https://github.com/robbyrussell/oh-my-zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
-# node-gyp :
-https://www.npmjs.com/package/node-gyp
-npm install -g node-gyp
+# React Chrome Developer Tools :
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
 
 # python :
 Python 2.7.13.  python 2.x

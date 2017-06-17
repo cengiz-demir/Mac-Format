@@ -136,6 +136,9 @@ When comming Right Bottom Corner can you make  Show Destop
 # Customize Toolbar : 
 ![Alt text](img/toolbar.png?raw=true "Toolbar")
 
+# MAMP ( Not recommended ! )
+If you work with php
+
 # Parallels Desktop ( Not recommended ! )
 http://www.parallels.com/eu/products/desktop/
 

@@ -6,7 +6,8 @@ developer.apple.com/downloads
 or
 Command Line Tools (CLT) for Xcode: 
 xcode-select --install
-
+# uBar - The Dock replacement for the Mac - Taskbar
+https://brawersoftware.com/products/ubar
 # Opera:
 http://www.opera.com/tr/computer/mac
 

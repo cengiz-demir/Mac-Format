@@ -64,6 +64,9 @@ ln -s "/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl" /usr/loc
 # Visual Studio Code (Recommended Editor) :
 https://code.visualstudio.com/download
 
+### Opening from Terminal
+https://code.visualstudio.com/docs/setup/mac
+
 # brackets:
 http://brackets.io
 
